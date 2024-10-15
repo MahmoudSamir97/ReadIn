@@ -1,4 +1,4 @@
-# Readify
+# ReadIn
 
 Welcome to Readify, your one-stop e-book store. With Readify, you can explore, buy, rate, and review a vast collection of e-books. Enjoy seamless reading and discover your next favorite book!
 
